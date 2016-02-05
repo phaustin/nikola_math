@@ -17,17 +17,18 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Nikola Tesla"  # (translatable)
-BLOG_TITLE = "test"  # (translatable)
+BLOG_AUTHOR = "pha"  # (translatable)
+BLOG_TITLE = "E340 Review"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://example.com/"
+SITE_URL = "http://clouds.eos.ubc.ca/~phil/courses/e340review/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "n.tesla@example.com"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_EMAIL = "paustin@eos.ubc.ca"
+BLOG_DESCRIPTION = "Review material for EOSC 340"  # (translatable)
 
+INDEX_PATH="blog"
 # Nikola is multilingual!
 #
 # Currently supported languages are:
