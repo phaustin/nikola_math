@@ -893,7 +893,8 @@ MathJax.Hub.Config({
     tex2jax: {
         inlineMath: [ ['$','$'], ["\\\(","\\\)"] ],
         displayMath: [ ['$$','$$'], ["\\\[","\\\]"] ],
-        processEscapes: true
+        processEscapes: true,
+        processEnvironments: true
     },
     displayAlign: 'left', // Change this to 'center' to center equations.
     "HTML-CSS": {
