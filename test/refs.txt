@@ -1,0 +1,31 @@
+
+.. _Mark Macleah Math 101 page: http://www.math.ubc.ca/~maclean/math101maclean.html
+
+.. _Joel Feldman Math 101 page: http://www.math.ubc.ca/~feldman/m101/
+
+.. _Leah Keshet Math 102 page: http://www.ugrad.math.ubc.ca/coursedoc/math102/2011/coursenotes.html
+
+.. _Math 100 wiki: http://wiki.ubc.ca/Science:Math_Exam_Resources/Courses/MATH100
+
+.. _Math 101 wiki: http://wiki.ubc.ca/Science:Math_Exam_Resources/Courses/MATH101
+
+.. _Webwork: https://webwork.elearning.ubc.ca/webwork2/
+
+.. _Question page: http://clouds.eos.ubc.ca/~phil/papers/mathproj/private/mathtests/
+
+.. _UBC Math wikis: https://wiki.math.ubc.ca/mathbook/main/Main_Page
+
+.. _UBC Math 102 course notes: https://wiki.math.ubc.ca/mathbook/M102/Course_notes
+
+.. _UBC Math 103 course notes: https://wiki.math.ubc.ca/mathbook/M103/Course_Notes
+
+.. _UBC Math 102 videos: https://wiki.math.ubc.ca/mathbook/M102/Pre-lecture_videos
+
+.. _feedback-and-sensitivity.pdf: http://clouds.eos.ubc.ca/~phil/courses/e340review/posts/pdfs/feedback-and-sensitivity.pdf
+.. _practice-problems.pdf: http://clouds.eos.ubc.ca/~phil/courses/e340review/posts/pdfs/practice-problems.pdf
+.. _taylor-series.pdf: http://clouds.eos.ubc.ca/~phil/courses/e340review/posts/pdfs/taylor-series.pdf
+.. _histograms-and-the-planck-curve.pdf: http://clouds.eos.ubc.ca/~phil/courses/e340review/posts/pdfs/histograms-and-the-planck-curve.pdf
+.. _planck-feedback.pdf: http://clouds.eos.ubc.ca/~phil/courses/e340review/posts/pdfs/planck-feedback.pdf
+.. _density-and-pressure.pdf: http://clouds.eos.ubc.ca/~phil/courses/e340review/posts/pdfs/density-and-pressure.pdf
+
+
