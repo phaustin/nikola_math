@@ -3,6 +3,7 @@
 from __future__ import unicode_literals
 import time
 
+#see http://louistiao.me/posts/how-i-customized-my-nikola-powered-site/
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
 
@@ -28,7 +29,7 @@ SITE_URL = "http://clouds.eos.ubc.ca/~phil/courses/e340review/"
 BLOG_EMAIL = "paustin@eos.ubc.ca"
 BLOG_DESCRIPTION = "Review material for EOSC 340"  # (translatable)
 
-INDEX_PATH="blog"
+INDEX_PATH="posts"
 # Nikola is multilingual!
 #
 # Currently supported languages are:
@@ -177,10 +178,14 @@ POSTS = (
     ("posts/*.txt", "posts", "post.tmpl"),
     ("posts/*.ipynb", "posts", "post.tmpl"),
 )
-
+#
+#  "" sends these html files to root
+#  since pages/home.rst has slug index
+#  it becomes output/index.rst
+#
 PAGES = (
-    ("pages/*.rst", "pages", "story.tmpl"),
-    ("pages/*.txt", "pages", "story.tmpl"),
+    ("pages/*.rst", "", "story.tmpl"),
+    ("pages/*.txt", "", "story.tmpl"),
 )
 
 
