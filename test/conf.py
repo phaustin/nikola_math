@@ -884,6 +884,7 @@ PRETTY_URLS = True
 
 # If you are using the compile-ipynb plugin, just add this one:
 MATHJAX_CONFIG = """
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
     tex2jax: {
