@@ -554,6 +554,12 @@ REDIRECTIONS = []
 #         "rsync -rav --delete output/ joe@my.site:/srv/www/site",
 #     ]
 # }
+DEPLOY_COMMANDS = {
+    'default': [
+        "rsync -rav --delete output/ piphome:/home/phil/public_html/courses/e340review/",
+        "rsync -rav --delete /Users/phil/repos/mathtips/posts/pdfs/*pdf piphome:/home/phil/public_html/courses/e340review/posts/pdfs/"
+    ]
+}
 
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
