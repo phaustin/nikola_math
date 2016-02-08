@@ -141,6 +141,7 @@ NAVIGATION_LINKS = {
 THEME = "phil1"
 #THEME = "ipython"
 #THEME = "bootstrap3-jinja"
+#THEME = "nikola-tiao"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
@@ -406,7 +407,7 @@ HIDDEN_TAGS = ['mathjax']
 #
 # pha get rid of category prefix
 #
-CATEGORY_PREFIX = ""
+CATEGORY_PREFIX = "cat_"
 
 # If CATEGORY_ALLOW_HIERARCHIES is set to True, categories can be organized in
 # hierarchies. For a post, the whole path in the hierarchy must be specified,
