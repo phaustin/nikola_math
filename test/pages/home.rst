@@ -21,6 +21,7 @@ Changes
 
 * Feb 3:  Added feedback and sensitivity page and mid-term 1 practice problems
 
+* Feb 8:  Added answers to P1.1-3.5 and multiple choice problems
 
 Resource links
 ++++++++++++++
@@ -63,6 +64,8 @@ E340 practice
 +++++++++++++
 
 * `Mid-term 1 sample problems <https://www.dropbox.com/s/sguokgdu9al5vls/Practice_Problems_MT1.pdf?dl=0>`_
+
+*  `Mid-term 1 sample answers <https://www.dropbox.com/s/ck6pgc9a1raeexh/Practice_Problems_MT1_solutions.pdf?dl=0>`_
 
 * `Practice problems html <http://clouds.eos.ubc.ca/~phil/courses/e340review/posts/practice-problems/>`_
   
