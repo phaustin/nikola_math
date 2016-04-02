@@ -23,6 +23,9 @@ Changes
 
 * Feb 8:  Added answers to P1.1-3.5 and multiple choice problems
 
+* Mar 16:  Added practice problems/solutions for mid-term 2
+
+  
 Resource links
 ++++++++++++++
 
@@ -63,6 +66,9 @@ E340 physics topics
 E340 practice
 +++++++++++++
 
+Mid-term 1
+==========
+
 * `Mid-term 1 sample problems <https://www.dropbox.com/s/sguokgdu9al5vls/Practice_Problems_MT1.pdf?dl=0>`_
 
 *  `Mid-term 1 sample answers <https://www.dropbox.com/s/ck6pgc9a1raeexh/Practice_Problems_MT1_solutions.pdf?dl=0>`_
@@ -73,3 +79,10 @@ E340 practice
 
   - Feb. 4: added new problems P3.1-P3.4
     
+Mid-term 2
+==========
+
+* `Mid 2 Practice problems w solutions html <http://clouds.eos.ubc.ca/~phil/courses/e340review/posts/midterm-2-review-answers/>`_
+  
+* `midterm-2-review-questions_solutions.pdf`_
+  

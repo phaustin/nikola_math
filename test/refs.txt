@@ -28,4 +28,6 @@
 .. _planck-feedback.pdf: http://clouds.eos.ubc.ca/~phil/courses/e340review/posts/pdfs/planck-feedback.pdf
 .. _density-and-pressure.pdf: http://clouds.eos.ubc.ca/~phil/courses/e340review/posts/pdfs/density-and-pressure.pdf
 
+.. _midterm-2-review-questions.pdf: http://clouds.eos.ubc.ca/~phil/courses/e340review/posts/pdfs/midterm-2-review-questions.pdf
 
+.. _midterm-2-review-questions_solutions.pdf: http://clouds.eos.ubc.ca/~phil/courses/e340review/posts/pdfs/midterm-2-review-questions_solutions.pdf

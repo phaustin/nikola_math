@@ -558,7 +558,7 @@ REDIRECTIONS = []
 DEPLOY_COMMANDS = {
     'default': [
         "rsync -rav --delete output/ piphome:/home/phil/public_html/courses/e340review/",
-        "rsync -rav --delete /Users/phil/repos/mathtips/posts/pdfs/*pdf piphome:/home/phil/public_html/courses/e340review/posts/pdfs/"
+        "rsync -rav --delete /Users/phil/repos/mathtips/test/posts/pdfs/*pdf piphome:/home/phil/public_html/courses/e340review/posts/pdfs/"
     ]
 }
 
